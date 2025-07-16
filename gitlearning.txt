@@ -7,4 +7,13 @@ steps-
 06. open the file and click right button and click (git bush here)
 07. give command (git clone ) and enter button press, after a new file created 
 08. then open the new file and hidden file open 
-09. 
+09. then open git bush by clicking right button 
+10. then give command git status
+                      git add gitlearning.txt
+                      git status
+                      git commit -m "first commit"
+                      git config --global user.email "farhanshahriar551@gmail.com"
+                      git config --global user.name "Farhan-511"
+                      git commit -m "first commit"
+                      git push 
+
