@@ -1,0 +1,10 @@
+steps-
+01. github login
+02. open github with url -https://github.com/alamin200290
+03. new repository create 
+04. git bush checking 
+05. new file open 
+06. open the file and click right button and click (git bush here)
+07. give command (git clone ) and enter button press, after a new file created 
+08. then open the new file and hidden file open 
+09. 
